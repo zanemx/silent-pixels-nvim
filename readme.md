@@ -28,5 +28,5 @@ And a massive love of coding exploration.
 Clone into your Neovim config directory:
 
 ```bash
-git clone https://github.com/<your-username>/silent-pixels-nvim ~/.config/nvim
+git clone https://github.com/zanemx/silent-pixels-nvim ~/.config/nvim
 
